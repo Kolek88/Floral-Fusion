@@ -66,6 +66,7 @@ namespace Floral_Fusion
             // Complete the transaction
             Transaction transaction = new Transaction(1, order.CalculateTotal());
             Console.WriteLine($"Transaction Completed. Amount Charged: ${transaction.Amount}");
+            Console.WriteLine("Hello LuqmanGzz")
         }
     }
 }
