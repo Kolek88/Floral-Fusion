@@ -1,7 +1,0 @@
-C:\Users\luqma\source\repos\Floral_test\Floral_test\bin\Debug\Floral_test.exe.config
-C:\Users\luqma\source\repos\Floral_test\Floral_test\bin\Debug\Floral_test.exe
-C:\Users\luqma\source\repos\Floral_test\Floral_test\bin\Debug\Floral_test.pdb
-C:\Users\luqma\source\repos\Floral_test\Floral_test\obj\Debug\Floral_test.csproj.AssemblyReference.cache
-C:\Users\luqma\source\repos\Floral_test\Floral_test\obj\Debug\Floral_test.csproj.CoreCompileInputs.cache
-C:\Users\luqma\source\repos\Floral_test\Floral_test\obj\Debug\Floral_test.exe
-C:\Users\luqma\source\repos\Floral_test\Floral_test\obj\Debug\Floral_test.pdb
