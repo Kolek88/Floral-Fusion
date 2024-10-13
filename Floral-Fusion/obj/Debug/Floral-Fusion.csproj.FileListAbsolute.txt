@@ -1,0 +1,7 @@
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\obj\Debug\Floral-Fusion.csproj.AssemblyReference.cache
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\obj\Debug\Floral-Fusion.csproj.CoreCompileInputs.cache
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\bin\Debug\Floral-Fusion.exe.config
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\bin\Debug\Floral-Fusion.exe
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\bin\Debug\Floral-Fusion.pdb
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\obj\Debug\Floral-Fusion.exe
+C:\Users\luqma\source\repos\Floral-Fusion\Floral-Fusion\obj\Debug\Floral-Fusion.pdb
