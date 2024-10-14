@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.exe
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.deps.json
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.runtimeconfig.json
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.pdb
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.Up2Date
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\refint\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.pdb
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ref\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\ShowCase.exe
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\ShowCase.deps.json
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\ShowCase.runtimeconfig.json
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\ShowCase.pdb
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.csproj.Up2Date
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\refint\ShowCase.dll
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.pdb
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ShowCase.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassLibraryProjects - Copy\ShowCase\obj\Debug\net8.0\ref\ShowCase.dll
