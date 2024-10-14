@@ -18,5 +18,10 @@ namespace Floral_Fusion
             Price = price;
             ProductID = productID;
         }
+
+        public string GetFormattedPrice()
+        {
+            return $"RM{Price:F2}";
+        }
     }
 }

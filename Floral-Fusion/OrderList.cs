@@ -38,5 +38,10 @@ namespace Floral_Fusion
                 order.UpdateStatus(newStatus);
             }
         }
+
+        public int GetOrderCount()
+        {
+            return Orders.Count;
+        }
     }
 }

@@ -24,5 +24,10 @@ namespace Floral_Fusion
         {
             return Customers.Find(c => c.CustomerID == customerID);
         }
+
+        public int GetCustomerCount()
+        {
+            return Customers.Count;
+        }
     }
 }
