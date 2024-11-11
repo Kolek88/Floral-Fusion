@@ -1,0 +1,26 @@
+﻿@page "/Order/add"
+@inject NavigationManager _navigation
+@inject StringLibrary.FlowerShopBusiness FlowerBiz
+@inject HttpClient Http
+
+<h3>Component</h3>
+
+@code {
+    private Transaction TheData = new Transaction();
+    private string title = string.Empty;
+
+    protected override void OnInitialized()
+    {
+    }
+
+    private async void AddEditData()
+    {
+        Console.WriteLine("Employee name: " + TheData.Employee.Name);
+        TheData.Id = TheData.Employee.Name + "." + DateTime.Now.Ticks;
+
+        await Http.PostAsJsonAsync("transactions/addedit", TheData);
+        Buss.TransList.Add(TheData);
+
+        _navigation.NavigateTo("/transactions");
+    }
+}

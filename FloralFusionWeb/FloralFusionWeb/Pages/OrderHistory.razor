@@ -1,0 +1,98 @@
+﻿﻿@* how to reach this page from other pages *@
+@page "/Order"
+@inject NavigationManager _navigation
+@* our Library *@
+@inject StringLibrary.FlowerShopBusiness FlowerBiz
+
+@* have to install this *@
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using System.Threading.Tasks;
+
+@inject HttpClient Http
+@inject NavigationManager _navigation
+
+
+<PageTitle>Order History</PageTitle>
+
+@* whatever html code *@
+
+    <div>
+        <QuickGrid Items="datalist">
+
+        <PropertyColumn Property="@(p => p.Customer)" Sortable="true" />
+        <PropertyColumn Property="@(p => p.OrderID)" />
+        <PropertyColumn Property="@(p => p.Arrangements)" />
+        <PropertyColumn Property="@(p => p.Status)" />
+
+         <TemplateColumn Title="Actions">
+            <button class="btn btn-primary" @onclick="() => EditData(context.Id)">
+                Edit
+            </button>
+            <button class="btn btn-primary" @onclick="() => DelData(context.Id)">
+                Delete
+            </button>
+        </TemplateColumn>
+
+        <div>
+            <button class="btn btn-primary" @onclick="() => AddData()">
+                Add Order
+            </button>
+        </div>
+
+        </QuickGrid>
+    </div>
+
+
+@code {
+    //data
+
+    //operations
+    /*
+    FlowerProductList productList = new FlowerProductList();
+    CustomerList customerList = new CustomerList();
+    OrderList orderList = new OrderList();
+
+    FlowerShopBusiness flowerShopBusiness = new FlowerShopBusiness();
+    flowerShopBusiness.initFirestore(); // Initialize Firestore
+    */
+
+    private IQueryable<Order> datalist = null;
+    private bool isLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+
+    private async Task LoadData()
+    {                                                           // the web api
+        List<Order> Orders = await Http.GetFromJsonAsync<List<Order>>("order");
+
+        // keep a local copy
+        FlowerBiz.OrderList.Orders = Orders;
+
+        datalist = Orders.AsQueryable();
+        StateHasChanged();
+    }
+
+    private async void AddData()
+    {
+        _navigation.NavigateTo("/Order/add/");
+    }
+
+    private async void EditData(string id)
+    {
+        Console.WriteLine("Editing " + id);
+        _navigation.NavigateTo("/Order/edit/" + id);
+    }
+
+    private async void DelData(string id)
+    {
+        Console.WriteLine("Deleting " + id);
+
+        Foo foo = new Foo(id);
+        await Http.PostAsJsonAsync("Order/delete/", foo);
+        _navigation.NavigateTo("/Order", true);
+    }
+
+}

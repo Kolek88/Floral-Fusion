@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\FloralFusionWeb\FloralFusionWeb\obj\Debug\net8.0\FloralFusionWeb.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FloralFusionWeb\FloralFusionWeb\obj\Debug\net8.0\FloralFusionWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FloralFusionWeb\FloralFusionWeb\obj\Debug\net8.0\FloralFusionWeb.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FloralFusionWeb\FloralFusionWeb\obj\Debug\net8.0\FloralFusionWeb.AssemblyInfo.cs
+C:\Users\HP\source\repos\FloralFusionWeb\FloralFusionWeb\obj\Debug\net8.0\FloralFusionWeb.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FloralFusionWeb\FloralFusionWeb\obj\Debug\net8.0\FloralFusionWeb.MvcApplicationPartsAssemblyInfo.cache
