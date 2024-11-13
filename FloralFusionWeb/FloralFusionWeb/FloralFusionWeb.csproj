@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="StringLibrary">
-      <HintPath>..\..\Kolek88\Floral-Fusion\Homework_3\StringLibrary\bin\Debug\net8.0\StringLibrary.dll</HintPath>
+      <HintPath>..\..\Homework_3\StringLibrary\bin\Debug\net8.0\StringLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 

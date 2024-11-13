@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj": {}
+    "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj": {
+    "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
+        "projectUniqueName": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
         "projectName": "FloralFusionWeb",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\FloralFusionWeb\\FloralFusionWeb\\obj\\",
+        "projectPath": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
+        "packagesPath": "C:\\Users\\amier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\amier\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,13 +62,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -89,7 +86,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.10, 8.0.10]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -97,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

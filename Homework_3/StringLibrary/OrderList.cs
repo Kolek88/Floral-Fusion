@@ -8,7 +8,7 @@ namespace StringLibrary
 {
     public class OrderList
     {
-        private List<Order> Orders { get; set; }
+        public List<Order> Orders { get; set; }
 
         public OrderList()
         {

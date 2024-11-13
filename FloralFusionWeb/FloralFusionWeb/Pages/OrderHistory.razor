@@ -1,15 +1,19 @@
 ﻿﻿@* how to reach this page from other pages *@
 @page "/Order"
-@inject NavigationManager _navigation
-@* our Library *@
-@inject StringLibrary.FlowerShopBusiness FlowerBiz
 
 @* have to install this *@
 @using Microsoft.AspNetCore.Components.QuickGrid
 @using System.Threading.Tasks;
+@using StringLibrary;
 
+@* our Library *@
+@inject StringLibrary.FlowerShopBusiness FlowerBiz
 @inject HttpClient Http
 @inject NavigationManager _navigation
+
+
+
+
 
 
 <PageTitle>Order History</PageTitle>
@@ -19,16 +23,17 @@
     <div>
         <QuickGrid Items="datalist">
 
-        <PropertyColumn Property="@(p => p.Customer)" Sortable="true" />
+        <PropertyColumn Property="@(p => p.Customer.Name)" Sortable="true" />
         <PropertyColumn Property="@(p => p.OrderID)" />
-        <PropertyColumn Property="@(p => p.Arrangements)" />
-        <PropertyColumn Property="@(p => p.Status)" />
+        <PropertyColumn Property="@(p => p.Arrangements.Count)" />
+        <PropertyColumn Property="@(p => p.PersonalizedMessage)" />
+        <PropertyColumn Property="@(p => p.Status.ToString())" />
 
-         <TemplateColumn Title="Actions">
-            <button class="btn btn-primary" @onclick="() => EditData(context.Id)">
+        <TemplateColumn Title="Actions">
+            <button class="btn btn-primary" @onclick="() => EditData(context.OrderID.ToString())">
                 Edit
             </button>
-            <button class="btn btn-primary" @onclick="() => DelData(context.Id)">
+            <button class="btn btn-primary" @onclick="() => DelData(context.OrderID.ToString())">
                 Delete
             </button>
         </TemplateColumn>
@@ -90,8 +95,7 @@
     {
         Console.WriteLine("Deleting " + id);
 
-        Foo foo = new Foo(id);
-        await Http.PostAsJsonAsync("Order/delete/", foo);
+        await Http.PostAsJsonAsync("Order/delete/", id);
         _navigation.NavigateTo("/Order", true);
     }
 

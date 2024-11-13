@@ -32,3 +32,16 @@ C:\Users\User\source\repos\Homework_2\StringLibrary\obj\Debug\net8.0\StringLibra
 C:\Users\User\source\repos\Homework_2\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
 C:\Users\User\source\repos\Homework_2\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
 C:\Users\User\source\repos\Homework_2\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\amier\source\repos\Floral-Fusion\Homework_3\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll

@@ -1192,19 +1192,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\amier\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Homework_2\\ShowCase\\ShowCase.csproj",
+      "projectUniqueName": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\ShowCase.csproj",
       "projectName": "ShowCase",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Homework_2\\ShowCase\\ShowCase.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Homework_2\\ShowCase\\obj\\",
+      "projectPath": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\ShowCase.csproj",
+      "packagesPath": "C:\\Users\\amier\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\amier\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1219,8 +1219,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Homework_2\\StringLibrary\\StringLibrary.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Homework_2\\StringLibrary\\StringLibrary.csproj"
+            "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\StringLibrary.csproj": {
+              "projectPath": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\StringLibrary.csproj"
             }
           }
         }
@@ -1255,7 +1255,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
