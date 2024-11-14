@@ -1,0 +1,58 @@
+body {
+    font-family: "Hurricane", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-size: 24px;
+    margin: 0;
+    text-align: center;
+    font-size: 80px;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+.card {
+    background-color: #d8cdc4;
+    padding: 110px;
+    justify-content: space-between;
+    border-radius: 50px;
+    text-align: center;
+    width: auto;
+}
+
+.profile-icon {
+    font-size: 150px;
+    color: #000000;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    color: rgb(0, 0, 0);
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}

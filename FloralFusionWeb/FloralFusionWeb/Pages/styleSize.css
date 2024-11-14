@@ -1,0 +1,64 @@
+body {
+    font-family: "Gowun Dodum", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.size-section {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.title {
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 91.9px;
+    margin-bottom: 20px;
+}
+
+.size-options {
+    display: flex;
+    justify-content: space-around;
+    background-color: #d8cdc4;
+}
+
+.size-option {
+    text-align: center;
+    margin: 20px;
+}
+
+.size-option img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.size-option .top-half {
+    margin: 0px 0;
+    color: white;
+    font-weight: bolder;
+}
+
+.size-option p {
+    margin: 0px 0;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.top-half {
+    height: 50%;
+    background-color: #a78262;
+    /* Add other styles here if needed, e.g., border, padding, font styles */
+  }
+  
+  .bottom-half {
+    height: 50%;
+    background-color: white;
+  }
+  
