@@ -1,10 +1,8 @@
-﻿﻿@* how to reach this page from other pages *@
-@page "/Order"
+﻿@page "/order" 
 
 @* have to install this *@
 @using Microsoft.AspNetCore.Components.QuickGrid
 @using System.Threading.Tasks;
-@using StringLibrary;
 
 @* our Library *@
 @inject StringLibrary.FlowerShopBusiness FlowerBiz
@@ -12,13 +10,9 @@
 @inject NavigationManager _navigation
 
 
-
-
-
-
 <PageTitle>Order History</PageTitle>
 
-@* whatever html code *@
+<h1>Order History</h1>
 
     <div>
         <QuickGrid Items="datalist">
@@ -49,18 +43,6 @@
 
 
 @code {
-    //data
-
-    //operations
-    /*
-    FlowerProductList productList = new FlowerProductList();
-    CustomerList customerList = new CustomerList();
-    OrderList orderList = new OrderList();
-
-    FlowerShopBusiness flowerShopBusiness = new FlowerShopBusiness();
-    flowerShopBusiness.initFirestore(); // Initialize Firestore
-    */
-
     private IQueryable<Order> datalist = null;
     private bool isLoading = true;
 
