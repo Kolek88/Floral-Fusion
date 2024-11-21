@@ -1,0 +1,15 @@
+﻿@page "/orders"
+@using FlowerShopLibrary
+
+@inject OrderList OrderList
+
+<h3>Pending Orders</h3>
+
+<ul>
+    @foreach (var order in OrderList.GetOrdersByStatus(OrderStatus.Pending))
+    {
+        <li>
+            Order ID: @order.OrderID - Total: @order.CalculateTotal():F2
+        </li>
+    }
+</ul>
