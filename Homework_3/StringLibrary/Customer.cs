@@ -20,5 +20,9 @@ namespace StringLibrary
             Address = address;
             TelephoneNumber = telephoneNumber;
         }
-    }
+
+		public Customer(string? name)
+		{
+		}
+	}
 }

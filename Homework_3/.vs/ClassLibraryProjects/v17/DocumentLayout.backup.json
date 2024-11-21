@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\flowershopbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8AB955-73AA-475A-A70B-110329E68507}|ShowCase\\ShowCase.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8AB955-73AA-475A-A70B-110329E68507}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\flowerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\flowerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\flowerarrangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\flowerarrangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\stringlibrary\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917AE48-0B1B-4292-A094-D113453A7446}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8AB955-73AA-475A-A70B-110329E68507}|ShowCase\\ShowCase.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\homework_3\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8AB955-73AA-475A-A70B-110329E68507}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +54,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\Program.cs",
-              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\Program.cs",
-              "RelativeToolTip": "ShowCase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FlowerArrangement.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\FlowerArrangement.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\FlowerArrangement.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\FlowerArrangement.cs",
+              "RelativeToolTip": "StringLibrary\\FlowerArrangement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:24:20.784Z",
+              "WhenOpened": "2024-11-21T04:14:22.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Order.cs",
-              "RelativeDocumentMoniker": "StringLibrary\\Order.cs",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Order.cs",
-              "RelativeToolTip": "StringLibrary\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FlowerProduct.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\FlowerProduct.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\FlowerProduct.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\FlowerProduct.cs",
+              "RelativeToolTip": "StringLibrary\\FlowerProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:38:40.516Z"
+              "WhenOpened": "2024-11-21T04:06:56.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,20 +86,80 @@
               "RelativeDocumentMoniker": "StringLibrary\\FlowerShopBussiness.cs",
               "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\FlowerShopBussiness.cs",
               "RelativeToolTip": "StringLibrary\\FlowerShopBussiness.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv8EAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T15:14:58.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Customer.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Customer.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Customer.cs",
+              "RelativeToolTip": "StringLibrary\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:31:55.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Order.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Order.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Order.cs",
+              "RelativeToolTip": "StringLibrary\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:38:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Message.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Message.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\Message.cs",
+              "RelativeToolTip": "StringLibrary\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:13:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\OrderStatus.cs",
+              "RelativeToolTip": "StringLibrary\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:05:57.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:24:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OrderList.cs",
               "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\OrderList.cs",
               "RelativeDocumentMoniker": "StringLibrary\\OrderList.cs",
               "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\Homework_3\\StringLibrary\\OrderList.cs",
               "RelativeToolTip": "StringLibrary\\OrderList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T15:45:27.978Z"
             }

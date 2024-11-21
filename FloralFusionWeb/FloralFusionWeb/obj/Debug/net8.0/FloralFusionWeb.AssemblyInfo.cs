@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloralFusionWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea9428a0e2fb30eb3ebf17bb4e1741c39661ba5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ced0b5a0fcd690ad331b3615d957cbfc620f67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FloralFusionWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloralFusionWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,6 +19,10 @@ namespace StringLibrary
             ProductID = productID;
         }
 
+        public FlowerProduct()
+        {
+        }
+
         public string GetFormattedPrice()
         {
             return $"RM{Price:F2}";

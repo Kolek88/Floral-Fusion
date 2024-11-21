@@ -43,5 +43,11 @@ namespace StringLibrary
         {
             return Orders.Count;
         }
+
+        public void Clear()
+        {
+            Orders.Clear();
+        }
+
     }
 }

@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using FirebaseAdmin;
 using Google.Apis.Auth.OAuth2;
 using Google.Cloud.Firestore;
@@ -177,5 +179,91 @@ namespace StringLibrary
 
             return orders;
         }
+
+        public async Task RestoreOrders()
+        {
+            Query collectionQuery = db.Collection("orders");
+            QuerySnapshot allQuerySnapshot = await collectionQuery.GetSnapshotAsync();
+
+            OrderList.Clear(); // Clear the existing list before restoring
+
+            foreach (DocumentSnapshot documentSnapshot in allQuerySnapshot.Documents)
+            {
+                Dictionary<string, object> data = documentSnapshot.ToDictionary();
+                //datatype //property = //datatype.parse(data["varName"].ToString());
+                int OrderID = int.Parse(data["OrderID"].ToString());
+                Message PersonalizedMessage = new Message(data["PersonalizedMessage"].ToString());
+                OrderStatus Status = (OrderStatus)Enum.Parse(typeof(OrderStatus), data["Status"].ToString());
+
+                string name = data["Name"].ToString();
+                string address = data["Address"].ToString();
+                string telephoneNumber = data["TelephoneNumber"].ToString();
+                int customerID = int.Parse(data["customerID"].ToString());
+                Customer customer = new Customer(customerID, name, address, telephoneNumber);    
+
+                FlowerProduct flower = new FlowerProduct();
+                flower.Name = data["Name"].ToString();
+                flower.Price = decimal.Parse(data["Price"].ToString());
+                flower.ProductID = int.Parse(data["ProductID"].ToString());
+
+                Size size = (Size)Enum.Parse(typeof(Size), data["Size"].ToString());
+                FlowerArrangement arrangement = new FlowerArrangement(size);
+                arrangement.Flowers.Add(flower);
+
+                Order order = new Order(customer, OrderID)
+                {
+                    PersonalizedMessage = PersonalizedMessage,
+                    Status = Status
+                };
+                order.Arrangements.Add(arrangement); 
+
+                OrderList.AddOrder(order);
+
+            }
+        }
+
     }
 }
+// Extract and create the customer
+/*var customerData = (Dictionary<string, object>)data["Customer"];
+Customer customer = new Customer(
+    int.Parse(customerData["CustomerID"].ToString()),
+    customerData["Name"].ToString(),
+    customerData["Address"].ToString(),
+    customerData["TelephoneNumber"].ToString()
+);
+
+// Create the order
+Order order = new Order(customer, int.Parse(data["OrderID"].ToString()));
+
+// Extract and add arrangements to the order
+var arrangementsData = (List<object>)data["Arrangements"];
+foreach (Dictionary<string, object> arrangementData in arrangementsData)
+{
+    Size size = (Size)Enum.Parse(typeof(Size), arrangementData["Size"].ToString());
+    FlowerArrangement arrangement = new FlowerArrangement(size);
+
+    var flowersData = (List<object>)arrangementData["Flowers"];
+    foreach (Dictionary<string, object> flowerData in flowersData)
+    {
+        FlowerProduct flower = new FlowerProduct(
+            flowerData["Name"].ToString(),
+            decimal.Parse(flowerData["Price"].ToString()),
+            int.Parse(flowerData["ProductID"].ToString())
+        );
+        arrangement.AddFlower(flower);
+    }
+
+    order.AddArrangement(arrangement);
+}
+
+// Update the order status
+order.Status = (OrderStatus)Enum.Parse(typeof(OrderStatus), data["Status"].ToString());
+
+// Add a personalized message if available
+if (data.ContainsKey("PersonalizedMessage") && data["PersonalizedMessage"] != null)
+{
+    order.AddPersonalizedMessage(data["PersonalizedMessage"].ToString());
+}
+*/
+// Add the order to the OrderList

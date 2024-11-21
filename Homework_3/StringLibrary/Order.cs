@@ -22,7 +22,11 @@ namespace StringLibrary
             Status = OrderStatus.Pending; // Default status
         }
 
-        public void AddArrangement(FlowerArrangement arrangement)
+		// Parameterless constructor
+		public Order()
+		{}
+
+		public void AddArrangement(FlowerArrangement arrangement)
         {
             Arrangements.Add(arrangement);
         }

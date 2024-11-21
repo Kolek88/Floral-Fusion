@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78AB12F4-19DD-448C-A45F-A4F9935236FD}|FloralFusionService\\FloralFusionService.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AB12F4-19DD-448C-A45F-A4F9935236FD}|FloralFusionService\\FloralFusionService.csproj|solutionrelative:floralfusionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AB12F4-19DD-448C-A45F-A4F9935236FD}|FloralFusionService\\FloralFusionService.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78AB12F4-19DD-448C-A45F-A4F9935236FD}|FloralFusionService\\FloralFusionService.csproj|solutionrelative:floralfusionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\orderhistory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\orderhistory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\page1canva.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\page1canva.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\floralfusionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\floralfusionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\supplymanagement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\supplymanagement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78AB12F4-19DD-448C-A45F-A4F9935236FD}|FloralFusionService\\FloralFusionService.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78AB12F4-19DD-448C-A45F-A4F9935236FD}|FloralFusionService\\FloralFusionService.csproj|solutionrelative:floralfusionservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\orderhistory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\orderhistory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\addorder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\addorder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\page1canva.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\page1canva.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|c:\\users\\amier\\source\\repos\\floral-fusion\\floralfusionweb\\floralfusionweb\\pages\\supplymanagement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293A3C26-DA7B-4511-BF31-59C2523E5981}|FloralFusionWeb\\FloralFusionWeb.csproj|solutionrelative:floralfusionweb\\pages\\supplymanagement.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 487,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,59 +74,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Home.razor",
-              "RelativeToolTip": "FloralFusionWeb\\Pages\\Home.razor",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T11:35:29.616Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FloralFusionWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T04:48:32.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Page1Canva.html",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Page1Canva.html",
-              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\Page1Canva.html",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Page1Canva.html",
-              "RelativeToolTip": "FloralFusionWeb\\Pages\\Page1Canva.html",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-14T11:34:33.815Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FloralFusionService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FloralFusionService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T04:47:59.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FloralFusionWeb",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
-              "RelativeDocumentMoniker": "FloralFusionWeb\\FloralFusionWeb.csproj",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
-              "RelativeToolTip": "FloralFusionWeb\\FloralFusionWeb.csproj",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionService\\appsettings.json",
+              "RelativeDocumentMoniker": "FloralFusionService\\appsettings.json",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionService\\appsettings.json",
+              "RelativeToolTip": "FloralFusionService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-14T11:30:10.228Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T04:47:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionService\\Program.cs",
+              "RelativeDocumentMoniker": "FloralFusionService\\Program.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionService\\Program.cs",
+              "RelativeToolTip": "FloralFusionService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:46:39.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "OrderHistory.razor",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\OrderHistory.razor",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\OrderHistory.razor",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\OrderHistory.razor",
+              "RelativeToolTip": "FloralFusionWeb\\Pages\\OrderHistory.razor",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:59:09.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Program.cs",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Program.cs",
+              "RelativeToolTip": "FloralFusionWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:57:44.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOrder.razor",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\AddOrder.razor",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\AddOrder.razor",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\AddOrder.razor",
+              "RelativeToolTip": "FloralFusionWeb\\Pages\\AddOrder.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:36:33.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FloralFusionWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\FloralFusionWeb.csproj",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\FloralFusionWeb.csproj",
+              "RelativeToolTip": "FloralFusionWeb\\FloralFusionWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T11:30:10.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\wwwroot\\index.html",
+              "RelativeToolTip": "FloralFusionWeb\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-19T17:05:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Home.html",
               "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Home.html",
               "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\Home.html",
               "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Home.html",
               "RelativeToolTip": "FloralFusionWeb\\Pages\\Home.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAACBjwCEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-14T11:28:43.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T11:28:43.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "FloralFusionWeb\\Layout\\NavMenu.razor",
@@ -110,38 +203,23 @@
               "RelativeToolTip": "FloralFusionWeb\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T08:59:19.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T08:59:19.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderHistory.razor",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\OrderHistory.razor",
-              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\OrderHistory.razor",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\OrderHistory.razor",
-              "RelativeToolTip": "FloralFusionWeb\\Pages\\OrderHistory.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T08:59:09.086Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "Page1Canva.html",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Page1Canva.html",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\Page1Canva.html",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Page1Canva.html",
+              "RelativeToolTip": "FloralFusionWeb\\Pages\\Page1Canva.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T11:34:33.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Program.cs",
-              "RelativeDocumentMoniker": "FloralFusionWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Program.cs",
-              "RelativeToolTip": "FloralFusionWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T08:57:44.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "SupplyManagement.razor",
               "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\SupplyManagement.razor",
               "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\SupplyManagement.razor",
@@ -149,8 +227,19 @@
               "RelativeToolTip": "FloralFusionWeb\\Pages\\SupplyManagement.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T08:58:48.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T08:58:48.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FloralFusionWeb\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\amier\\source\\repos\\Floral-Fusion\\FloralFusionWeb\\FloralFusionWeb\\Pages\\Home.razor",
+              "RelativeToolTip": "FloralFusionWeb\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T11:35:29.616Z"
             }
           ]
         }

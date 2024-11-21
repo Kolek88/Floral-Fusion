@@ -8,13 +8,15 @@
 @inject StringLibrary.FlowerShopBusiness FlowerBiz
 @inject HttpClient Http
 @inject NavigationManager _navigation
+@inject IJSRuntime JS
+
 
 
 <PageTitle>Order History</PageTitle>
 
 <h1>Order History</h1>
 
-    <div>
+<div>
         <QuickGrid Items="datalist">
 
         <PropertyColumn Property="@(p => p.Customer.Name)" Sortable="true" />
@@ -37,10 +39,8 @@
                 Add Order
             </button>
         </div>
-
-        </QuickGrid>
-    </div>
-
+    </QuickGrid>
+</div>
 
 @code {
     private IQueryable<Order> datalist = null;
@@ -80,5 +80,4 @@
         await Http.PostAsJsonAsync("Order/delete/", id);
         _navigation.NavigateTo("/Order", true);
     }
-
 }
