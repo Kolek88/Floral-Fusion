@@ -1,0 +1,140 @@
+﻿@page "/flowers"
+@using FlowerShopLibrary
+
+@inject FlowerProductList ProductList
+
+<h3 class="page-title">Available Flowers</h3>
+
+<div class="flower-list">
+    <!-- Manually listed flower items with images -->
+    <div class="flower-card">
+        <img src="https://images.unsplash.com/photo-1496062031456-07b8f162a322?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D" alt="Rose" class="flower-image" />
+        <h4 class="flower-name">Rose</h4>
+        <p class="flower-price">RM5.99</p>
+    </div>
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojW35H7bJsuI1ysXIeXOluKFUFl9A4JmNZw&s" alt="Tulip" class="flower-image" />
+        <h4 class="flower-name">Tulip</h4>
+        <p class="flower-price">RM4.99</p>
+    </div>
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZkLPpn3V6fQJ69noc3AesWxv8A6MsFtOCw&s" alt="Sunflower" class="flower-image" />
+        <h4 class="flower-name">Sunflower</h4>
+        <p class="flower-price">RM3.99</p>
+    </div>
+    <div class="flower-card">
+        <img src="https://www.partyswizzle.com/assets/images/10floral/flowerlilypink.jpg" alt="Lily" class="flower-image" />
+        <h4 class="flower-name">Lily</h4>
+        <p class="flower-price">RM6.99</p>
+    </div>
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNuRoJ9w-uZVdMlIMgsAV1aPmN87w5pX3TQ&s" alt="Daisy" class="flower-image" />
+        <h4 class="flower-name">Daisy</h4>
+        <p class="flower-price">RM3.49</p>
+    </div>
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DXR1yWGvam4lKum8b--6554MgEv6UKHBdQ&s" alt="Orchid" class="flower-image" />
+        <h4 class="flower-name">Orchid</h4>
+        <p class="flower-price">RM8.99</p>
+    </div>
+
+    <div class="flower-card">
+        <img src="https://foreverflowering.com.au/cdn/shop/files/CarnationFuschiaRealTouchFlowerStem1.jpg?v=1694831561&width=1946" alt="Carnation" class="flower-image" />
+        <h4 class="flower-name">Carnation</h4>
+        <p class="flower-price">RM4.49</p>
+    </div>
+
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHmQs758XR5UrisvZ2PYbbCOtYSBSV2olaw&s" alt="Peony" class="flower-image" />
+        <h4 class="flower-name">Peony</h4>
+        <p class="flower-price">RM7.99</p>
+    </div>
+
+    <div class="flower-card">
+        <img src="https://greenerymarket.com/cdn/shop/files/real-touch-hydrangea-stem-turquoise27601-578323.jpg?v=1711776613&width=1080" alt="Hydrangae" class="flower-image" />
+        <h4 class="flower-name">Hydrangae</h4>
+        <p class="flower-price">RM6.49</p>
+    </div>
+
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXox7MuiAF5m43pPrTSdqeFYrv8YIGh2IvA&s" alt="Chrysanthemum" class="flower-image" />
+        <h4 class="flower-name">Chrysanthemum</h4>
+        <p class="flower-price">RM4.99</p>
+    </div>
+
+    <div class="flower-card">
+        <img src="https://image.made-in-china.com/202f0j00QjdaLPvRsgGb/Wholesale-Real-Touch-Artificial-Gerbera-Daisy-Flowers-for-Home-Wedding-Home-Office-Decoration.webp" alt="Gerbera" class="flower-image" />
+        <h4 class="flower-name">Gerbera</h4>
+        <p class="flower-price">RM5.49</p>
+    </div>
+
+    <div class="flower-card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPXIuYCpzozW2zazbNyB7TcQQTNyJD5a7Dw&s" alt="Lavender" class="flower-image" />
+        <h4 class="flower-name">Lavender</h4>
+        <p class="flower-price">RM3.99</p>
+    </div>
+    <!-- Add more flowers as needed -->
+</div>
+
+<style>
+    /* General Styles */
+    body {
+        font-family: "Arial", sans-serif;
+        background-color: #fafafa;
+        margin: 0;
+        padding: 0;
+        background-image: url('https://img.freepik.com/free-vector/watercolor-floral-background-with-soft-colors_52683-28620.jpg');
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+    }
+
+    .page-title {
+        text-align: center;
+        font-size: 28px;
+        margin: 30px 0;
+        color: #333;
+        font-weight: 600;
+    }
+
+    .flower-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 0 20px;
+    }
+
+    .flower-card {
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .flower-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+        }
+
+    .flower-image {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        margin-bottom: 15px;
+    }
+
+    .flower-name {
+        font-size: 20px;
+        margin-bottom: 10px;
+        color: #333;
+        font-weight: 500;
+    }
+
+    .flower-price {
+        font-size: 16px;
+        color: #007bff;
+        font-weight: 400;
+    }
+</style>

@@ -1,0 +1,30 @@
+﻿@page "/orders"
+@using FlowerShopLibrary
+
+@inject OrderList OrderList
+
+<style>
+    body {
+        font-family: "Hurricane", cursive;
+        font-weight: 400;
+        font-style: normal;
+        background-color: #ffffff;
+        margin: 0;
+        padding: 0;
+        background-image: url('https://img.freepik.com/free-vector/watercolor-floral-background-with-soft-colors_52683-28620.jpg');
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+    }
+</style>
+
+<h3>Pending Orders</h3>
+
+<ul>
+    @foreach (var order in OrderList.GetOrdersByStatus(OrderStatus.Pending))
+    {
+        <li>
+            Order ID: @order.OrderID - Total: @order.CalculateTotal():F2
+        </li>
+    }
+</ul>
