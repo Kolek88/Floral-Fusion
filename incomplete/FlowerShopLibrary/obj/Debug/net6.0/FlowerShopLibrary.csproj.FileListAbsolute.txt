@@ -9,3 +9,4 @@ C:\Users\User\source\repos\FlowerShopLibrary\obj\Debug\net6.0\FlowerShopLibrary.
 C:\Users\User\source\repos\FlowerShopLibrary\obj\Debug\net6.0\refint\FlowerShopLibrary.dll
 C:\Users\User\source\repos\FlowerShopLibrary\obj\Debug\net6.0\FlowerShopLibrary.pdb
 C:\Users\User\source\repos\FlowerShopLibrary\obj\Debug\net6.0\ref\FlowerShopLibrary.dll
+C:\Users\User\source\repos\FlowerShopLibrary\obj\Debug\net6.0\FlowerShopLibrary.csproj.AssemblyReference.cache

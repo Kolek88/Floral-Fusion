@@ -17,19 +17,25 @@ namespace FlowerShopLibrary
 			Flowers = new List<FlowerProduct>();
 		}
 
-		public void AddFlower(FlowerProduct flower)
-		{
-			if (Flowers.Count < (int)Size)
-			{
-				Flowers.Add(flower);
-			}
-			else
-			{
-				throw new InvalidOperationException($"Cannot add more flowers. Maximum capacity ({(int)Size}) reached.");
-			}
-		}
+        public void AddFlower(FlowerProduct flower)
+        {
+            if (flower == null)
+            {
+                throw new ArgumentNullException(nameof(flower), "Flower cannot be null.");
+            }
+            if (Flowers.Count < (int)Size)
+            {
+                Flowers.Add(flower);
+            }
+            else
+            {
+                throw new InvalidOperationException($"Cannot add more flowers. Maximum capacity ({(int)Size}) reached.");
+            }
+        }
 
-		public decimal CalculateTotal()
+
+
+        public decimal CalculateTotal()
 		{
 			decimal total = 0;
 			foreach (var flower in Flowers)

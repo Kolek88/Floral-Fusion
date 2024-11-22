@@ -6,45 +6,46 @@ using System.Threading.Tasks;
 
 namespace FlowerShopLibrary
 {
-	public class Order
-	{
-		public Customer Customer { get; set; }
-		public List<FlowerArrangement> Arrangements { get; set; }
-		public int OrderID { get; set; }
-		public Message PersonalizedMessage { get; set; }
-		public OrderStatus Status { get; set; }
+    public class Order
+    {
+        public Customer Customer { get; set; }
+        public List<FlowerArrangement> Arrangements { get; set; }
+        public int OrderID { get; set; }
+        public Message PersonalizedMessage { get; set; } // Ensure this is public
+        public OrderStatus Status { get; set; }
 
-		public Order(Customer customer, int orderID)
-		{
-			Customer = customer;
-			OrderID = orderID;
-			Arrangements = new List<FlowerArrangement>();
-			Status = OrderStatus.Pending; // Default status
-		}
+        public Order(Customer customer, int orderID)
+        {
+            Customer = customer;
+            OrderID = orderID;
+            Arrangements = new List<FlowerArrangement>();
+            Status = OrderStatus.Pending; // Default status
+        }
 
-		public void AddArrangement(FlowerArrangement arrangement)
-		{
-			Arrangements.Add(arrangement);
-		}
+        public void AddArrangement(FlowerArrangement arrangement)
+        {
+            Arrangements.Add(arrangement);
+        }
 
-		public void AddPersonalizedMessage(string messageContent)
-		{
-			PersonalizedMessage = new Message(messageContent);
-		}
+        public void AddPersonalizedMessage(string messageContent)
+        {
+            PersonalizedMessage = new Message(messageContent);
+        }
 
-		public decimal CalculateTotal()
-		{
-			decimal total = 0;
-			foreach (var arrangement in Arrangements)
-			{
-				total += arrangement.CalculateTotal();
-			}
-			return total;
-		}
+        public decimal CalculateTotal()
+        {
+            decimal total = 0;
+            foreach (var arrangement in Arrangements)
+            {
+                total += arrangement.CalculateTotal();
+            }
+            return total;
+        }
 
-		public void UpdateStatus(OrderStatus newStatus) // not in program yet
-		{
-			Status = newStatus;
-		}
-	}
+        public void UpdateStatus(OrderStatus newStatus)
+        {
+            Status = newStatus;
+        }
+    }
+
 }

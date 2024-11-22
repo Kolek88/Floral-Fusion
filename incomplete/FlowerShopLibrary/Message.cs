@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace FlowerShopLibrary
 {
-	public class Message
-	{
-		public string Content { get; set; }
+    public class Message
+    {
+        public string Content { get; set; }
 
-		public Message(string content)
-		{
-			Content = content;
-		}
-	}
+        public Message(string content)
+        {
+            Content = content;
+        }
+    }
+
 }
